@@ -1,2 +1,2 @@
-# Neng-Liang-Framework
-A unified physical framework based on recursive-holographic principles and frequency locking
+#能良框架
+基于递归全息和频率锁定的统一物理框架
